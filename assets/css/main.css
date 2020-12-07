@@ -2170,7 +2170,7 @@ input, select, textarea {
 			input[type="button"],
 			button,
 			.button {
-				font-size: 0.9rem;
+				font-size: 1.2rem;
 				height: 3.25rem;
 				line-height: 3.25rem;
 			}
